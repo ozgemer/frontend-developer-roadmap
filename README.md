@@ -55,3 +55,6 @@ Recommended tools
 
 Happy learning — start with `lesson-01-html-basics` and enjoy the journey.
 
+![branch button](images/branch_button.png)
+
+![branch list](images/branch_list.png)
